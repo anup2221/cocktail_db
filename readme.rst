@@ -64,8 +64,6 @@ Linux
 
 `OCI Command Line Interface Installation and Configuration on Linux Instance <https://www.youtube.com/watch?v=bY3jQMMHxdw&list=PLKCk3OyNwIzuA-dqI5vkhZVIc_cxHCkp5&index=20>`_
 
-`OCI Command Line Interface (CLI) Installation on an Offline Linux Instance <https://www.youtube.com/watch?v=sWDFAOSxqHU&list=PLKCk3OyNwIzuA-dqI5vkhZVIc_cxHCkp5&index=28&t=1s>`_
-
 Oracle Linux 7
 --------------
 ::
@@ -79,8 +77,6 @@ Windows
     powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/oracle/oci-cli/master/scripts/install/install.ps1'))"
 
 `OCI Command Line Interface Installation and Configuration on Windows Instance <https://www.youtube.com/watch?v=rEHwcJdRf8M&list=PLKCk3OyNwIzuA-dqI5vkhZVIc_cxHCkp5&index=21>`_
-
-`OCI Command Line Interface (CLI) Installation on an Offline Windows Instance <https://www.youtube.com/watch?v=3QtjZ0T58oc&list=PLKCk3OyNwIzuA-dqI5vkhZVIc_cxHCkp5&index=31&t=306s>`_
 
 See the `installation guide`__ for detailed installation instructions, options and troubleshooting.
 
@@ -105,6 +101,10 @@ Offline Installation
    ::
 
        install.ps1 -OfflineInstall
+
+`OCI Command Line Interface (CLI) Installation on an Offline Linux Instance <https://www.youtube.com/watch?v=sWDFAOSxqHU&list=PLKCk3OyNwIzuA-dqI5vkhZVIc_cxHCkp5&index=28&t=1s>`_
+
+`OCI Command Line Interface (CLI) Installation on an Offline Windows Instance <https://www.youtube.com/watch?v=3QtjZ0T58oc&list=PLKCk3OyNwIzuA-dqI5vkhZVIc_cxHCkp5&index=31&t=306s>`_
 
 __ https://github.com/oracle/oci-cli/releases
 
