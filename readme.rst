@@ -20,8 +20,8 @@ Oracle Linux 7
 ::
 
     sudo yum install python36-oci-cli
+    `youtube videos <https://www.youtube.com/watch?v=bY3jQMMHxdw&list=PLKCk3OyNwIzuA-dqI5vkhZVIc_cxHCkp5&index=20>`_
     
-    <a href="https://www.youtube.com/watch?v=bY3jQMMHxdw&list=PLKCk3OyNwIzuA-dqI5vkhZVIc_cxHCkp5&index=20">Youtube video link</a>
 
 Windows
 -------
