@@ -16,6 +16,10 @@ Interactive Features
 --------------------
 OCI CLI offers interactive features to guide you through command usage.
 
+![animation](images/ezgif.com-apng-maker.png)
+
+![til](./images/ezgif.com-apng-maker.png)
+
 Enabling them allows:
     * Suggestions and autocompletion to help compose commands;
     * Color-coded suggestions to distinguish required parameters from optional parameters; and
