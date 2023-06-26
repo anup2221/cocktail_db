@@ -16,8 +16,8 @@ Interactive Features
 --------------------
 OCI CLI offers interactive features to guide you through command usage.
 
-.. |Substitution Name| image:: images/ezgif.com-apng-maker.png
-  :width: 400
+.. image:: images/ezgif.com-apng-maker.png
+  :width: 1000
   :alt: Alternative text
 
 ![til](./images/ezgif.com-apng-maker.png)
